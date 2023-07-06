@@ -17,9 +17,11 @@ Annual Income (k$): Annual income of the customer in thousands of dollars
 Spending Score (1-100): A rating is given by the company based on consumer spending
 patterns and behavior
 
+
 Dataset link:
 
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 
 The given task is to perform the following analysis using Python:
 
@@ -37,6 +39,7 @@ different colour.
 
 
 Dependencies used:
+
 The following are the dependencies used to complete this project:
 - Python 3
 - Pandas
